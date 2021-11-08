@@ -42,11 +42,16 @@ make sure node and npm are installed in the terminal
 > npm i -D optimize-css-assets-webpack-plugin terser-webpack-plugin
 
 5- sign up an api in the link below 
+  
 > https://www.meaningcloud.com/developer/create-account
+  
 6- create env file in the root of project and put the key of api 
+  
 > API_KEY = ****************************
 
 7- start the project 
 > npm run build-prod 
+  
 > npm start 
+  
 8- open browser at http://localhost:8060/
