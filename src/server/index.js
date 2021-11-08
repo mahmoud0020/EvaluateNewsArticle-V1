@@ -30,10 +30,10 @@ app.use(cors());
 console.log(__dirname)
 
 
-// API
 
 
-// TODO add Configuration to be able to use env variables
+
+
 
 
 
